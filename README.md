@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @corahart
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning full stack developing
-- 📫 How to reach me coragart06@gmail.com
+- 👀 I’m interested in applied computer science
+- 🌱 I’m currently learning Java OOP
+- 📫 How to reach me corahart06@gmail.com
 
 <!---
 corahart/corahart is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
